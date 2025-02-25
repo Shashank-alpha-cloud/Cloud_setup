@@ -1,1 +1,16 @@
 # Cloud_setup
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: Shashank 
+
+INTERN ID: :CT6WUSP
+
+DOMAIN: Cloud Computing
+
+DURATION: 6 WEEEKS
+
+MENTOR: NEELA SANTOSH
+
+Task 1
+
